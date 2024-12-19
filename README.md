@@ -5,4 +5,4 @@ This is a repository from the exercises I need to do in classes from The Complet
 
 ➡️ CSS Positioning
 
-🔜 Lary the Fairy (Game JAM)
+🔜 Flag Project
